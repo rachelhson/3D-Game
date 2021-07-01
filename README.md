@@ -19,7 +19,7 @@ This game has 1 player and 5 enemys. The player can rotate using `left arrow` an
 *  robot shooting kill player
 *  robot shooting kill the other robots 
 
-## Extra Credit
+## Extra 
 * (1, ⅓)% — track and display score. You can choose any scoring scale you want
   Hit Enemy +10
 * (1, ⅓)% — add an optional over-the-shoulder view (of the player)
