@@ -1,6 +1,6 @@
 # 3D Game 
 3D game programming using `Unity_WebGL` uploaded on Github all source file and can be open with this link :
-https://rachelhson.github.io/myfirstgame/
+https://rachelhson.github.io/3D-Game/
 
 ### Game Description 
 This game has 1 player and 5 enemys. The player can rotate using `left arrow` and `right arrow`  playerphere (yellow front/ blue back) is player. The player can shoot enemy it will give 10 points for each enemy kill. Enemy shoot can kill the other enemys except capsule enemy. If the player hit wall and enemy it will be killed. The goal of the game is to escape from the place using the door placed in the right edge.
